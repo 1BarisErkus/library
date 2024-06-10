@@ -1,4 +1,4 @@
-const baseUrl = "https://library-backend-xeds.onrender.com/books";
+const baseUrl = "https://library-backend-xeds.onrender.com";
 
 class API {
   constructor(baseUrl) {
